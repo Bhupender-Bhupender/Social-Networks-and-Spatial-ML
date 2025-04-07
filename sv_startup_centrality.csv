@@ -1,0 +1,1377 @@
+Company,Degree Centrality,Betweenness Centrality
+Airbnb,0.07418181818181818,0.00453401397738967
+Airware,0.072,0.0031686170793365103
+Ark,0.07054545454545454,0.003196889442555516
+AngelList,0.06763636363636363,0.005134256799978952
+Algolia,0.061090909090909085,0.0029677562356012033
+42Floors,0.047999999999999994,0.001824610725263227
+AeroFS,0.04654545454545454,0.0005342302736598766
+AnyPerk,0.04581818181818181,0.0008112186376249912
+42,0.04509090909090909,0.0015619159884421132
+500Friends,0.04509090909090909,0.0007808967094939627
+Robinhood,0.042909090909090904,0.0010716078658186893
+1000memories,0.042909090909090904,0.000744820410356977
+Atomwise,0.04218181818181818,0.00100007501534697
+Amplitude,0.04145454545454545,0.000500630389603136
+Applauze,0.04145454545454545,0.0009005480724438176
+Authy,0.04072727272727272,0.00042921398234847856
+Amiato,0.04072727272727272,0.0002605108431963504
+Apportable,0.03927272727272727,0.0005510609629371129
+Apptimize,0.03927272727272727,0.0008937143388579158
+Airseed,0.03854545454545454,0.000745434031797296
+AppDynamics,0.03854545454545454,0.0015613769417341943
+Apcera,0.03781818181818181,0.0004987884153982062
+Avegant,0.03563636363636363,0.0006383795991847201
+AdStage,0.034909090909090904,0.0009560383993141961
+Alchemist Accelerator,0.03345454545454545,0.0017870230363639403
+One Inc.,0.03345454545454545,0.0008403594810625013
+Asseta,0.03272727272727272,0.0009727130525709407
+AltSchool,0.032,0.0008001672230672887
+Appurify,0.032,0.0008198093730900501
+20n,0.032,0.00019310136786507693
+InboxQ,0.032,0.0006401264756538287
+Aerohive Networks,0.03127272727272727,0.0004653420185041578
+37coins,0.030545454545454542,0.0010260109383923408
+AdRoll,0.029818181818181817,0.001279117249387833
+21 Inc,0.029818181818181817,0.0002634926964150358
+Artillery,0.029818181818181817,0.0002959772948151113
+PushMarket,0.029818181818181817,0.0002000918583339883
+AdMob,0.029818181818181817,0.0007570740572149549
+AirPair,0.02909090909090909,0.0002077533073409025
+AgileMD,0.02836363636363636,0.000437025686430499
+Apsalar,0.02836363636363636,0.0007968024461470324
+Aptible,0.02836363636363636,0.000437025686430499
+Asana,0.02836363636363636,0.0002300325946383832
+15Five,0.02836363636363636,0.0003747272720389602
+2Wire,0.027636363636363636,0.001478905324669835
+"Andy OS, inc.",0.027636363636363636,0.00022450115107402278
+Area 1 Security,0.027636363636363636,0.0008305026909554177
+3-V Biosciences,0.026909090909090907,0.00036878363857969555
+Autonomic Networks,0.026909090909090907,0.001621181095326557
+Aardvark,0.026909090909090907,0.0009570694153121467
+about.me,0.02618181818181818,0.0008962985448846123
+agÃÂ¡mi Systems,0.02618181818181818,0.00018457158967831626
+Apropose,0.02618181818181818,0.000184097698468224
+analyticsMD,0.02618181818181818,3.2207753273571e-05
+280 North,0.02618181818181818,2.6903127488846513e-05
+Automatic,0.025454545454545452,3.292989441594669e-05
+Auctomatic,0.025454545454545452,2.296983310841521e-05
+AdGrok,0.025454545454545452,0.0003786346269193355
+Airy Labs,0.025454545454545452,0.0016283105512230297
+Appstores.com,0.024727272727272726,0.0009279890717334736
+Adioso,0.024727272727272726,1.113941340614896e-05
+3VR,0.024727272727272726,0.0012129654570583225
+AirPR,0.024727272727272726,0.00041547256479880534
+23andMe,0.024727272727272726,0.0008084183779679384
+Affirm,0.024727272727272726,0.00022874180174859947
+8tracks Radio,0.024727272727272726,0.00029015106278187756
+Airbrite,0.024727272727272726,1.735062425101451e-05
+Arch Rock Corporation,0.023999999999999997,0.00044002458797768066
+Airtable,0.023999999999999997,0.0005040289817901897
+AppHarbor,0.023999999999999997,0.0
+Amulyte,0.023999999999999997,0.0
+AppZen,0.023999999999999997,6.0890696153498144e-05
+AdEspresso,0.023999999999999997,8.49220901411084e-05
+App.io,0.023999999999999997,0.00011899134364471669
+Anybots,0.023999999999999997,0.0
+Allay,0.023999999999999997,0.00015533132787249498
+AnyLeaf,0.023999999999999997,0.0
+AllTrails,0.023999999999999997,0.00015533132787249498
+Alation,0.023999999999999997,0.00018615924745167266
+Appbistro,0.02327272727272727,0.0006563386278854623
+Adku,0.022545454545454546,0.0005936847480966747
+Appcelerator,0.022545454545454546,0.0009669339326515681
+3Sourcing,0.022545454545454546,0.0003370492977648395
+Autonomic Technologies,0.021818181818181816,0.0010368973233395092
+Aviate,0.021818181818181816,0.00041061128194764786
+Altiscale,0.021818181818181816,0.00028568652096787344
+3ware,0.021818181818181816,0.0007199641773370967
+Adaptive Insights,0.02109090909090909,0.001036659287729369
+Audiodraft,0.02109090909090909,7.338093959612669e-06
+Apptuto,0.02109090909090909,3.16742909593078e-05
+Ausra,0.02109090909090909,0.0008274521340986849
+Api.ai,0.02109090909090909,0.000983183183437623
+ADARA,0.02109090909090909,0.0013503607013566983
+August,0.02109090909090909,0.0008982039519167739
+Alumnify,0.02109090909090909,0.00040523422151536977
+AeroScout,0.02109090909090909,0.0009155636730821619
+Arcot Systems,0.02109090909090909,0.000947359627329665
+ActivityHero,0.02036363636363636,0.0
+App.net,0.02036363636363636,3.121520441896423e-05
+AppSocially,0.02036363636363636,0.0
+Anyadir Education,0.02036363636363636,0.0
+99Gamers,0.02036363636363636,0.0
+"AutoLotto, Inc.",0.02036363636363636,0.0
+ArtCorgi,0.02036363636363636,0.0
+Altor Networks,0.02036363636363636,0.0004677145467180428
+Artimi,0.019636363636363636,0.00018670169709097468
+Adatao,0.019636363636363636,0.00010594309086433435
+ApniCure,0.018909090909090907,0.00023453696665934023
+Acclarent,0.018909090909090907,0.0004327386273016194
+ARMO BioSciences,0.018909090909090907,0.0002111832410152286
+AccessLan Communications,0.018909090909090907,0.00032925793953729416
+Arrayent,0.018909090909090907,0.001074989016917292
+6sense,0.018909090909090907,0.0007669510753647264
+41st Parameter,0.018909090909090907,0.000287873391573473
+Amprius,0.018909090909090907,0.0007771378071097926
+Alexza Pharmaceuticals,0.01818181818181818,0.0003066334105923441
+Desk,0.01818181818181818,0.0001343118360281812
+Amino,0.01818181818181818,0.0005231850075572749
+ArcSight,0.017454545454545452,0.00026654201579477053
+Acta technology,0.017454545454545452,0.0004779456888596913
+Anki,0.017454545454545452,2.1142426643513384e-05
+Nimble VR,0.017454545454545452,0.00046872671109064983
+Appirio,0.017454545454545452,0.00021964026930537642
+Audentes Therapeutics,0.017454545454545452,0.0003816314444369812
+Attune,0.017454545454545452,0.0007736836309243028
+Allihub,0.016727272727272726,2.4394582774566852e-05
+3Jam,0.016727272727272726,0.00013671882031103218
+100Plus,0.016,8.785966215409803e-05
+Athos,0.016,0.00041144279773568115
+Appthority,0.016,0.0002663066851590966
+1Life Healthcare,0.016,0.00011937434294980712
+Align Commerce,0.016,5.155767296111538e-05
+Agami System,0.015272727272727271,3.286436359926254e-05
+Aerospike,0.015272727272727271,0.00011786821468118691
+Aria Systems,0.015272727272727271,0.0008676609212182973
+Alien Technology,0.015272727272727271,0.00013276268933509538
+Astrid,0.015272727272727271,0.0009168227846742304
+Agentdesks,0.015272727272727271,0.00038542939633671135
+Amitree,0.015272727272727271,0.00014148837780698058
+Anaplan,0.015272727272727271,0.0002205940124897768
+Anacor Pharmaceutical,0.014545454545454545,0.0003604002866842082
+Ascendis Pharma,0.014545454545454545,0.0004037740082241321
+Alector,0.014545454545454545,0.0008013516647744351
+Automattic,0.014545454545454545,0.0002182421310142329
+adRise,0.014545454545454545,0.00020972493591954821
+Auditude,0.014545454545454545,0.0001554072374100136
+Avi Networks Inc,0.013818181818181818,0.00013453859021877066
+"Progyny, Inc.",0.013818181818181818,0.0
+Agiliance,0.013818181818181818,0.00014628257701713236
+aboutLife,0.013818181818181818,0.0
+ANDA Networks,0.013818181818181818,0.00014219201790425848
+Adallom,0.013818181818181818,7.744335223403638e-05
+Aicent,0.01309090909090909,6.321367860257662e-05
+Augmedix,0.01309090909090909,0.0004663435135142192
+"Ariosa Diagnostics, Inc.",0.01309090909090909,0.00040525226102420576
+Atrenta,0.01309090909090909,0.00023005359927737097
+Academia.edu,0.01309090909090909,6.77554978242066e-05
+Aruba Networks,0.01309090909090909,0.0001729845280405017
+Agility Design Solutions,0.01309090909090909,1.676281865720952e-05
+Aeluros,0.01309090909090909,8.20484718102855e-05
+Apieron,0.012363636363636363,0.0006736756533606023
+Avalanche Biotech,0.012363636363636363,4.4903241051655165e-05
+AppJet,0.012363636363636363,0.00021461778071273842
+One Block Off the Grid (1BOG),0.012363636363636363,0.0
+Addepar,0.012363636363636363,5.7137301330414206e-05
+Allux Medical,0.012363636363636363,6.855152260170887e-05
+Airespace,0.011636363636363636,0.0002264954471965903
+Availigent,0.011636363636363636,0.00010310095180263698
+Apptera,0.011636363636363636,0.00029862551954907207
+Aarki,0.011636363636363636,0.00020700811827258848
+Aarohi communication,0.011636363636363636,0.00036734153764721454
+ADVANCE Medical,0.011636363636363636,1.1199229238852151e-05
+Averail,0.011636363636363636,0.00013472283378783258
+AdsNative,0.011636363636363636,0.0004137181957547812
+140 Proof,0.011636363636363636,4.6263826010966515e-05
+App Annie,0.010909090909090908,3.957378250946591e-05
+Altia Systems,0.010909090909090908,0.0
+3Scan,0.010909090909090908,0.0004364056150203609
+Atieva,0.010909090909090908,0.0
+AVG Technologies,0.010909090909090908,0.0
+Aha Mobile,0.010909090909090908,0.0
+Argo,0.010909090909090908,0.00010928096974810415
+Atheer Labs,0.010909090909090908,3.6707696390725406e-05
+AgilOne,0.010909090909090908,5.31963706427084e-05
+Atempo,0.010909090909090908,0.0
+Cloud9 IDE,0.01018181818181818,0.00036734153764721454
+Autopilot,0.01018181818181818,4.785579545019973e-05
+Above All Software,0.01018181818181818,2.8063583146263363e-05
+Activehours,0.01018181818181818,5.3590894737374936e-05
+Acompli,0.01018181818181818,4.260373601169853e-05
+Alt12 Apps,0.01018181818181818,0.00021610398196833682
+Autogrid,0.009454545454545453,0.00045601206625588337
+Achievers,0.009454545454545453,2.6177734253763425e-05
+AppRedeem,0.009454545454545453,0.0
+Aragon Surgical,0.009454545454545453,0.0005001984290548989
+Atom Entertainment,0.008727272727272726,0.0007325658330025143
+Adiana,0.008727272727272726,0.000137354435520821
+AirTight Networks,0.008727272727272726,9.452383147237387e-05
+Apigee,0.008727272727272726,0.0004493225081728231
+Astoria Road,0.008,0.0
+Apartment List,0.008,2.4142536195191126e-05
+Augmented Pixels,0.008,0.0
+AtheroMed,0.008,0.00017706733165125368
+Eargo,0.008,0.00046232758232047863
+9+ Program,0.008,0.0
+adBrite,0.008,0.0
+Adventure Bucket List,0.008,0.0
+AliveCor,0.008,2.8231818096839073e-05
+AlikeAudience,0.008,0.0
+Anchor Intelligence,0.008,0.0003126783759763456
+Adworx,0.008,0.0
+AdviseHub,0.008,0.0
+Altitude Co,0.008,0.0
+Archemix,0.008,0.0002821209991027847
+Access Closure,0.007272727272727273,9.257612016038585e-05
+AdWhirl,0.007272727272727273,0.0
+Abra,0.007272727272727273,4.143917885900427e-06
+ACCO Semiconductor,0.007272727272727273,0.0
+Adomo,0.007272727272727273,0.00010024079479224989
+Altius Education,0.006545454545454545,6.554632432374727e-05
+ARIO Data Networks,0.006545454545454545,0.00047089783629462027
+Adaptive Planning,0.006545454545454545,3.154385093604903e-05
+ASTADIA,0.006545454545454545,0.0
+Assembly,0.006545454545454545,1.3807394617407267e-05
+APX,0.006545454545454545,0.0007267555105700273
+Airpost.io,0.006545454545454545,0.0018229179940983805
+AppMesh,0.006545454545454545,0.00015952373628681695
+Anagran,0.006545454545454545,0.00021736682664101498
+Airstone,0.006545454545454545,0.0
+Apprion,0.006545454545454545,0.00019680675845369479
+Apiary,0.005818181818181818,5.663680482292983e-05
+Accredible,0.005818181818181818,0.0
+AstroloMe,0.005818181818181818,0.0
+6SensorLabs,0.005818181818181818,8.543529835277726e-06
+Acupera,0.005818181818181818,1.5360701204561565e-06
+Aria Biosystems,0.005818181818181818,2.0367845048395154e-05
+AEGEA Medical,0.005818181818181818,3.4319500758040477e-05
+Airphrame,0.005818181818181818,3.911868446382076e-05
+Adility,0.005818181818181818,0.0
+Active Mind Technology,0.005818181818181818,4.415079507108177e-06
+ApplePie Capital,0.005818181818181818,1.870736773491598e-05
+Artify It,0.005818181818181818,3.437311018873978e-06
+Authernative,0.00509090909090909,4.471220284511048e-05
+Authentic8,0.00509090909090909,6.050322146461545e-05
+AllBusiness.com,0.00509090909090909,8.112608953713797e-05
+Articulinx Inc.,0.00509090909090909,0.0
+Adura Technologies,0.00509090909090909,0.000364637806199472
+Aquest Systems,0.00509090909090909,1.4735770718244905e-05
+The Activity Exchange (AchieveMint),0.00509090909090909,0.0
+Aptus Endosystems,0.00509090909090909,0.0
+Ardian,0.00509090909090909,6.111875314604047e-05
+Amplify Health,0.00509090909090909,0.0
+Avidia,0.00509090909090909,4.2038481456327415e-05
+Anapsis,0.00509090909090909,0.0
+AltoWeb,0.00509090909090909,6.457407705422546e-06
+Autism Acumen,0.00509090909090909,0.0
+Auris Surgical Robotics,0.004363636363636363,4.10920388723217e-05
+Allocade,0.004363636363636363,0.0
+Audience.fm,0.004363636363636363,0.0
+Allvoices,0.004363636363636363,0.0
+ALDEA Pharmaceuticals,0.004363636363636363,0.00010907418679298209
+Alpine Data Labs,0.004363636363636363,9.815584567721547e-05
+Affinity Circles,0.004363636363636363,0.0
+"ArrayPower, Inc.",0.004363636363636363,0.0
+AppLovin,0.004363636363636363,9.142327522637169e-07
+Academize,0.004363636363636363,0.0
+Assemblage,0.004363636363636363,0.0003322762768092535
+Aligo,0.004363636363636363,6.133265411186411e-05
+AirXpanders,0.004363636363636363,0.000749000764286375
+Ad Infuse,0.004363636363636363,0.0
+3DPrinterOS,0.004363636363636363,0.00010408253177564942
+Applied MicroStructures,0.0036363636363636364,3.474699215598462e-05
+Affinity Labs,0.0036363636363636364,7.280862473978187e-06
+Altura Medical,0.0036363636363636364,1.6980995516198153e-05
+Active Scaler,0.0036363636363636364,0.0
+ApptheGame - Swoopt Daily Fantasy Sports,0.0036363636363636364,0.00036734153764721454
+Arcaris,0.0036363636363636364,0.0
+A4Vision,0.0036363636363636364,4.28261344541568e-05
+AffinityLive,0.0036363636363636364,2.5813688649388705e-06
+Atlantis Computing,0.0036363636363636364,0.00037997221955892124
+AppDirect,0.0036363636363636364,1.574246931541548e-05
+AppSlingr,0.0036363636363636364,0.0
+Allegro Networks,0.002909090909090909,1.8722864186438943e-05
+Autodaq,0.002909090909090909,0.0
+AppFormix,0.002909090909090909,0.0
+Attachments.me,0.002909090909090909,0.0
+AngelPad,0.002909090909090909,0.0
+ASSIA,0.002909090909090909,0.0003750236995147579
+AdStack,0.002909090909090909,0.0
+AnchorFree,0.002909090909090909,5.375903108721809e-06
+Anomaly Innovations,0.002909090909090909,0.0
+Appsperse,0.002909090909090909,0.0
+Astoria Software,0.002909090909090909,1.836493221332178e-06
+AdRocket,0.002909090909090909,1.5954688396821267e-05
+3scale,0.0021818181818181815,4.587358299148693e-07
+Arkivio,0.0021818181818181815,4.762306934866943e-06
+Agora,0.0021818181818181815,0.0
+AuctionDrop,0.0021818181818181815,0.0
+Adesto Technologies,0.0021818181818181815,7.25223949535593e-05
+AdverCar,0.0021818181818181815,0.0
+Altierre,0.0021818181818181815,0.00041318326772652424
+ActiveGrid,0.0021818181818181815,0.0
+Adeze,0.0021818181818181815,0.0
+Akanda Inc,0.0014545454545454545,3.7572349398548715e-07
+Adhusky,0.0014545454545454545,0.0007325658330025143
+AcelRx Pharmaceuticals,0.0014545454545454545,0.0
+A10 Networks,0.0014545454545454545,2.2227293555477213e-06
+Addvocate,0.0014545454545454545,0.0
+Alvesta,0.0014545454545454545,0.00036734153764721454
+Avantis Medical Systems,0.0014545454545454545,0.00036734153764721454
+Actiance,0.0014545454545454545,1.0167977058956023e-05
+Automile,0.0014545454545454545,0.0
+Allbound,0.0014545454545454545,0.00036734153764721454
+Artificial Muscle Inc.,0.0014545454545454545,2.860939412481031e-05
+5th Finger,0.0014545454545454545,0.0
+Avega Systems,0.0014545454545454545,0.0
+Agnitus,0.0014545454545454545,9.86884160101045e-07
+H2O.ai,0.0014545454545454545,0.0
+Arkin,0.0014545454545454545,0.0
+Apozy,0.0014545454545454545,0.0
+Academic Earth,0.0014545454545454545,0.0
+Aruspex,0.0014545454545454545,0.0
+Aria Retirement Solutions,0.0014545454545454545,0.0
+"ArgiNOx Phamaceuticals,Inc.",0.0007272727272727272,0.0
+Arbiter,0.0007272727272727272,0.0
+Ascend Consumer Finance,0.0007272727272727272,0.0
+Annexon,0.0007272727272727272,0.0
+10sec,0.0007272727272727272,0.0
+Apture,0.0007272727272727272,0.0
+Alpha Moda Lab,0.0007272727272727272,0.0
+4Blox,0.0007272727272727272,0.0
+Ascendancy,0.0007272727272727272,0.0
+AorTx,0.0007272727272727272,0.0
+Adello Inc,0.0007272727272727272,0.0
+Alcanzar Solar,0.0007272727272727272,0.0
+Adynxx,0.0007272727272727272,0.0
+Asetek,0.0007272727272727272,0.0
+Audaster,0.0007272727272727272,0.0
+Alacritech,0.0007272727272727272,0.0
+Alminder,0.0007272727272727272,0.0
+"Anews, Inc.",0.0007272727272727272,0.0
+6connect,0.0007272727272727272,0.0
+Affymax,0.0007272727272727272,0.0
+Applied Identity,0.0007272727272727272,0.0
+AppBarbecue Inc.,0.0007272727272727272,0.0
+AcademixDirect,0.0007272727272727272,0.0
+Adjust,0.0007272727272727272,0.0
+Advice Wallet,0.0007272727272727272,0.0
+AirPlug,0.0007272727272727272,0.0
+Aromyx,0.0007272727272727272,0.0
+Attendify,0.0007272727272727272,0.0
+AfterCollege,0.0007272727272727272,0.0
+Abiquo Group,0.0007272727272727272,0.0
+AdNectar,0.0007272727272727272,0.0
+Arcturus BioCloud,0.0007272727272727272,0.0
+abusix,0.0007272727272727272,0.0
+64 Pixels,0.0007272727272727272,0.0
+5by,0.0,0.0
+4D Energetics,0.0,0.0
+acaia,0.0,0.0
+3DBin,0.0,0.0
+"321Lend, Inc.",0.0,0.0
+2nd Screen Games,0.0,0.0
+1World Online,0.0,0.0
+28msec,0.0,0.0
+25eight,0.0,0.0
+12 Labs,0.0,0.0
+1 of 99,0.0,0.0
+1 Mainstream,0.0,0.0
+50 Cubes,0.0,0.0
+4Home,0.0,0.0
+A1 Software Group Inc (Selly Automotive),0.0,0.0
+500 Luchadores,0.0,0.0
+8020 Media,0.0,0.0
+Accord,0.0,0.0
+8fit - Fitness for the rest of us,0.0,0.0
+8x8 Inc,0.0,0.0
+A.P.Pharma,0.0,0.0
+Abiogenix,0.0,0.0
+AbleSky,0.0,0.0
+Ablexis,0.0,0.0
+abode,0.0,0.0
+Abukai,0.0,0.0
+Acacia Trading,0.0,0.0
+Acendi Interactive,0.0,0.0
+AppGyver,0.0,0.0
+Aditive,0.0,0.0
+Acirro,0.0,0.0
+AdTonik,0.0,0.0
+Aductions,0.0,0.0
+ACT Biotech,0.0,0.0
+ActionRun,0.0,0.0
+"Adaptive Advertising, Inc.",0.0,0.0
+Adaptive Digital Power,0.0,0.0
+Adaptive Media,0.0,0.0
+Addapp,0.0,0.0
+Addoway,0.0,0.0
+AdEx Media,0.0,0.0
+AdGent Digital,0.0,0.0
+Accellion,0.0,0.0
+Admaxim,0.0,0.0
+Adteractive,0.0,0.0
+Advanced Microgrid Solutions,0.0,0.0
+AirMagnet,0.0,0.0
+Acesis,0.0,0.0
+Advebs,0.0,0.0
+AdventureDrop,0.0,0.0
+Adviously Inc.,0.0,0.0
+AdYouNet,0.0,0.0
+Aetho,0.0,0.0
+AFAR,0.0,0.0
+AGC,0.0,0.0
+Agily Networks,0.0,0.0
+Agistix,0.0,0.0
+AimWith,0.0,0.0
+Aireum,0.0,0.0
+AirKast,0.0,0.0
+Accelalox,0.0,0.0
+Answer.To,0.0,0.0
+AirXP,0.0,0.0
+Alpha Omega Financial Systems,0.0,0.0
+Ampere Life Sciences,0.0,0.0
+American Giant,0.0,0.0
+"Alavita Pharmaceuticals, Inc",0.0,0.0
+AlephCloud Systems,0.0,0.0
+Algentis,0.0,0.0
+Algotochip,0.0,0.0
+Alicanto,0.0,0.0
+Alice Technologies,0.0,0.0
+Align Technology,0.0,0.0
+Allete Therapeutic Solutions,0.0,0.0
+Allset,0.0,0.0
+Alohar Mobile,0.0,0.0
+Alpha and Omega Semiconductor,0.0,0.0
+AlphaClone,0.0,0.0
+Amphivena Therapeutics,0.0,0.0
+AltaVitas,0.0,0.0
+Alter Eco,0.0,0.0
+AltiGen Communications,0.0,0.0
+Altocloud,0.0,0.0
+Altos Design Automation,0.0,0.0
+AltraVax,0.0,0.0
+Alverix,0.0,0.0
+AlwaysOn,0.0,0.0
+Amaranth Medical,0.0,0.0
+Amarantus BioSciences,0.0,0.0
+Ambature,0.0,0.0
+Ambient Fytns Technology,0.0,0.0
+AmbyGear,0.0,0.0
+Ampex,0.0,0.0
+Appedo,0.0,0.0
+AisleFinder,0.0,0.0
+Angstro,0.0,0.0
+Aivvy Inc.,0.0,0.0
+Animeeple,0.0,0.0
+Ampush,0.0,0.0
+Amusing Quest,0.0,0.0
+Analyticmate,0.0,0.0
+Anchiva Systems,0.0,0.0
+Anchorâ¢,0.0,0.0
+Andiamo Systems,0.0,0.0
+Angaza,0.0,0.0
+Angee,0.0,0.0
+angelMD,0.0,0.0
+Angiologix,0.0,0.0
+ANGL,0.0,0.0
+Animated Speech,0.0,0.0
+"AppCentral, Inc.",0.0,0.0
+Anova Culinary,0.0,0.0
+Al Jazeera Agricultural,0.0,0.0
+Apple,0.0,0.0
+Anvato,0.0,0.0
+AnyCloud,0.0,0.0
+AnyRoad,0.0,0.0
+Apache Design Solutions,0.0,0.0
+Aparc Systems,0.0,0.0
+Apisphere,0.0,0.0
+APL Software,0.0,0.0
+App Suey,0.0,0.0
+AppAnalytics,0.0,0.0
+appbackr,0.0,0.0
+Appiphany,0.0,0.0
+BA Systems,0.0,0.0
+Applied StemCell,0.0,0.0
+Archively,0.0,0.0
+Axcient,0.0,0.0
+Ardusat,0.0,0.0
+AppMachine,0.0,0.0
+Appodeal,0.0,0.0
+AppOrchid Inc,0.0,0.0
+Apprema,0.0,0.0
+Appvance,0.0,0.0
+Apricot Mountain,0.0,0.0
+AQH,0.0,0.0
+AquaGenesis,0.0,0.0
+Aquifi,0.0,0.0
+Aragon Consulting Group,0.0,0.0
+Aravo Solutions,0.0,0.0
+Ardica Technologies,0.0,0.0
+Assembly Pharma,0.0,0.0
+AReflectionOf Inc.,0.0,0.0
+ARX,0.0,0.0
+Aria Glassworks,0.0,0.0
+Aricent,0.0,0.0
+Aridis Pharmaceuticals,0.0,0.0
+Arithmatica,0.0,0.0
+Armetheon,0.0,0.0
+Armorize Technologies,0.0,0.0
+Banter!,0.0,0.0
+ArrayComm,0.0,0.0
+Arrayit,0.0,0.0
+Arstasis,0.0,0.0
+ArtSquare,0.0,0.0
+Asante Solutions,0.0,0.0
+Awear,0.0,0.0
+Articulate Technologies,0.0,0.0
+Audvisor,0.0,0.0
+MANGLAM EDUCATION,0.0,0.0
+Aurfy,0.0,0.0
+Assurz,0.0,0.0
+Asterias Biotherapeutics,0.0,0.0
+Asthmatx,0.0,0.0
+Astro Gaming,0.0,0.0
+Happy Retailer,0.0,0.0
+Atooma INC,0.0,0.0
+Attainia,0.0,0.0
+Attensity,0.0,0.0
+AttorneyFee,0.0,0.0
+Attune Foods,0.0,0.0
+AudioTag,0.0,0.0
+Augur,0.0,0.0
+Avvenu,0.0,0.0
+AutoESL,0.0,0.0
+Ascendify,0.0,0.0
+Avangate,0.0,0.0
+Avidbank Holdings,0.0,0.0
+Avinger,0.0,0.0
+"Aviso, Inc.",0.0,0.0
+Avocadoâ¢,0.0,0.0
+Avogy,0.0,0.0
+Avolent,0.0,0.0
+Avot Media,0.0,0.0
+Avox,0.0,0.0
+Avra,0.0,0.0
+Avva Health,0.0,0.0
+Arteris,0.0,0.0
+AwesomeBox,0.0,0.0
+Bandcamp,0.0,0.0
+BabyList,0.0,0.0
+Axolotl,0.0,0.0
+BackerKit,0.0,0.0
+Ayasdi,0.0,0.0
+Ayla,0.0,0.0
+Ayla Networks,0.0,0.0
+Azingo,0.0,0.0
+Azul Systems,0.0,0.0
+Azumio,0.0,0.0
+B-Bridge International,0.0,0.0
+EVERYWARE,0.0,0.0
+Baarzo,0.0,0.0
+babberly,0.0,0.0
+BabyCenter,0.0,0.0
+Backlift,0.0,0.0
+Bannerman,0.0,0.0
+Bandpage,0.0,0.0
+BackOps,0.0,0.0
+Backpack,0.0,0.0
+Backplane,0.0,0.0
+BackType,0.0,0.0
+Badger Maps,0.0,0.0
+Badgeville,0.0,0.0
+Bag of goodies,0.0,0.0
+BakedCode,0.0,0.0
+Balanced,0.0,0.0
+Balanced Labs,0.0,0.0
+BandAndMe,0.0,0.0
+Bandar Foods,0.0,0.0
+Bang Networks,0.0,0.0
+Beautylish,0.0,0.0
+Axis Systems,0.0,0.0
+Bay Area Transportation,0.0,0.0
+"Become, Inc.",0.0,0.0
+Bay Microsystems,0.0,0.0
+Bare Snacks,0.0,0.0
+Barefoot Networks,0.0,0.0
+Barn & Willow,0.0,0.0
+Barosense,0.0,0.0
+BARRX Medical,0.0,0.0
+Base CRM,0.0,0.0
+BaseVenture,0.0,0.0
+Basis Science,0.0,0.0
+Baubax,0.0,0.0
+Bauxy,0.0,0.0
+Baxano,0.0,0.0
+Bay Dynamics,0.0,0.0
+Beauty Noted,0.0,0.0
+Boomerang,0.0,0.0
+Banjo,0.0,0.0
+Bayes Impact,0.0,0.0
+Baynetwork,0.0,0.0
+Baynote,0.0,0.0
+BBB,0.0,0.0
+BDNA,0.0,0.0
+Be-Bound,0.0,0.0
+Be Sport,0.0,0.0
+BeamExpress,0.0,0.0
+beatlab,0.0,0.0
+Beatrobo,0.0,0.0
+Beats Music,0.0,0.0
+Amelox Incorporated,0.0,0.0
+Beyond Pricing,0.0,0.0
+BeCouply,0.0,0.0
+Be-novative,0.0,0.0
+Bento,0.0,0.0
+Beep Networks,0.0,0.0
+Beesphere,0.0,0.0
+Beetailer,0.0,0.0
+behaview,0.0,0.0
+Behavio,0.0,0.0
+Bell Biosystems,0.0,0.0
+Bella Pictures,0.0,0.0
+Bellabeat,0.0,0.0
+Benchling,0.0,0.0
+Bender Advisor,0.0,0.0
+Benefitter,0.0,0.0
+Benissimo,0.0,0.0
+Bento Labs,0.0,0.0
+Beyond the Box,0.0,0.0
+BitGo,0.0,0.0
+beRecruited,0.0,0.0
+Berggi,0.0,0.0
+Bermai,0.0,0.0
+Bespoke Innovations,0.0,0.0
+Best Apps Market,0.0,0.0
+Betabrand,0.0,0.0
+better.,0.0,0.0
+Better Place,0.0,0.0
+BetterCompany,0.0,0.0
+BetterDoctor,0.0,0.0
+Better Finance,0.0,0.0
+BetterWorks,0.0,0.0
+Bloomspot,0.0,0.0
+Biba,0.0,0.0
+BioLoom,0.0,0.0
+Billowby,0.0,0.0
+BillShrink,0.0,0.0
+Bidgely,0.0,0.0
+Big Box Labs,0.0,0.0
+Big Data Perspective,0.0,0.0
+Big Live,0.0,0.0
+BigBand Networks,0.0,0.0
+BigCalc,0.0,0.0
+BigDeal,0.0,0.0
+Bigfoot Networks,0.0,0.0
+BigPanda,0.0,0.0
+BigTent Design,0.0,0.0
+Bill.com,0.0,0.0
+Bill Forward,0.0,0.0
+Bilneur,0.0,0.0
+BioInspire Technologies,0.0,0.0
+BeyondJob.com,0.0,0.0
+Bina Technologies,0.0,0.0
+BinaryVR,0.0,0.0
+Bindle,0.0,0.0
+Bink! Inc.,0.0,0.0
+Binpress,0.0,0.0
+Binti,0.0,0.0
+BinWise,0.0,0.0
+BIO-NEMS,0.0,0.0
+Bioabsorbable Therapeutics,0.0,0.0
+Biofuelbox,0.0,0.0
+BioGenerics,0.0,0.0
+BioImagene,0.0,0.0
+BeVocal,0.0,0.0
+BioNex Solutions,0.0,0.0
+Blossom,0.0,0.0
+Bitmenu,0.0,0.0
+Bizily,0.0,0.0
+BioPharmX,0.0,0.0
+BioPro Pharmaceutical,0.0,0.0
+BioQuiddity,0.0,0.0
+Birdi,0.0,0.0
+Birdpost,0.0,0.0
+Birst,0.0,0.0
+Bitcast,0.0,0.0
+Bitcovery,0.0,0.0
+Bitdeli,0.0,0.0
+Bitfinder Inc.,0.0,0.0
+Bitfone Corporation,0.0,0.0
+BitFury Group,0.0,0.0
+bitmovin,0.0,0.0
+Bizo,0.0,0.0
+Bitnami,0.0,0.0
+Bitnet Technologies,0.0,0.0
+BitPass,0.0,0.0
+Uphold,0.0,0.0
+HoloBuilder by bitstars,0.0,0.0
+BitTorrent,0.0,0.0
+Bitwage,0.0,0.0
+BitWall,0.0,0.0
+Bityota,0.0,0.0
+Bitzer Mobile,0.0,0.0
+"Bitzio, Inc.",0.0,0.0
+Biz360,0.0,0.0
+BizeeBee,0.0,0.0
+Bizmore,0.0,0.0
+Biztag,0.0,0.0
+Bionic Panda Games,0.0,0.0
+Blesh,0.0,0.0
+Bling Nation,0.0,0.0
+Bizzingo,0.0,0.0
+Black Hammer Brewing,0.0,0.0
+Black Lotus,0.0,0.0
+BlackArrow,0.0,0.0
+Black Drumm,0.0,0.0
+Blaze DFM,0.0,0.0
+BlazeMeter,0.0,0.0
+Bleacher Report,0.0,0.0
+Blend Labs,0.0,0.0
+Blend Systems,0.0,0.0
+Blendoor,0.0,0.0
+Blendspace,0.0,0.0
+Blinq,0.0,0.0
+BloomReach,0.0,0.0
+Bioniq Health,0.0,0.0
+Blipify,0.0,0.0
+Blippy,0.0,0.0
+Blippy Social Commerce,0.0,0.0
+Bliss,0.0,0.0
+Bloc,0.0,0.0
+Blockboard,0.0,0.0
+BlockCypher,0.0,0.0
+BlockScore,0.0,0.0
+BlockSpring,0.0,0.0
+Bloodhound,0.0,0.0
+Bloom Energy,0.0,0.0
+BloomBoard,0.0,0.0
+BloomThat,0.0,0.0
+BluBond,0.0,0.0
+Bugcrowd,0.0,0.0
+Blue Vector Systems,0.0,0.0
+BlueAnatomy,0.0,0.0
+Blue Buzz Network,0.0,0.0
+Blue Crystal Labs,0.0,0.0
+Blue Danube Systems,0.0,0.0
+Blue Jeans Network,0.0,0.0
+Blue Lane Technologies,0.0,0.0
+Blue Mango Weddings,0.0,0.0
+Blue Perch,0.0,0.0
+Blue Pumpkin Software,0.0,0.0
+Blue River Technology,0.0,0.0
+Blue Shield of California Foundation,0.0,0.0
+Blue Sky Rental Studios,0.0,0.0
+Blue Tornado,0.0,0.0
+BlueArc,0.0,0.0
+BlueSwarm,0.0,0.0
+BlueSprig,0.0,0.0
+Blueboard,0.0,0.0
+Bluebox,0.0,0.0
+Bluechilli,0.0,0.0
+"BlueData Software, Inc.",0.0,0.0
+Mitoo Sports,0.0,0.0
+BlueKai,0.0,0.0
+BlueLithium,0.0,0.0
+Bluenose Analytics,0.0,0.0
+BluePoint Securityâ¢,0.0,0.0
+Blueprint Labs,0.0,0.0
+Blueseed,0.0,0.0
+BlueShift Labs,0.0,0.0
+BottlesTonight,0.0,0.0
+BlueTurtleBio Technologies,0.0,0.0
+Bottleshake,0.0,0.0
+Booktrack,0.0,0.0
+Boombotix,0.0,0.0
+BlueVine,0.0,0.0
+Blurb,0.0,0.0
+BluWrap,0.0,0.0
+BO.LT,0.0,0.0
+BoardVantage,0.0,0.0
+Boardwalktech,0.0,0.0
+Boatbound,0.0,0.0
+Bodyport,0.0,0.0
+"Boku, Inc.",0.0,0.0
+Bonfaire,0.0,0.0
+BookFresh,0.0,0.0
+Bookpad,0.0,0.0
+Boomerang Commerce,0.0,0.0
+BOPS,0.0,0.0
+BlueTalon,0.0,0.0
+Boomr,0.0,0.0
+Boomtime,0.0,0.0
+boomtrain,0.0,0.0
+BooRah,0.0,0.0
+Booshaka,0.0,0.0
+Boostable,0.0,0.0
+Boost Media,0.0,0.0
+Boosted Boards,0.0,0.0
+BoostWorks,0.0,0.0
+BootstrapLabs,0.0,0.0
+Booyah,0.0,0.0
+bop.fm,0.0,0.0
+Bluesmart,0.0,0.0
+Boundary,0.0,0.0
+Bricsnet,0.0,0.0
+Brand Embassy,0.0,0.0
+BrandBoards,0.0,0.0
+BountyHunter,0.0,0.0
+Bountysource,0.0,0.0
+Boutiika,0.0,0.0
+Boutir,0.0,0.0
+Boxbe,0.0,0.0
+Boxfish,0.0,0.0
+Bracket Computing,0.0,0.0
+Braigo Labs Inc.,0.0,0.0
+BrainBot,0.0,0.0
+Branch Metrics,0.0,0.0
+Branch8,0.0,0.0
+BranchOut,0.0,0.0
+Brandcast,0.0,0.0
+BridgeLux,0.0,0.0
+Bridgefy,0.0,0.0
+brands4friends,0.0,0.0
+Brave Software,0.0,0.0
+BraveNew,0.0,0.0
+Bread,0.0,0.0
+Breakthrough Behavioral,0.0,0.0
+Breaktime Studios,0.0,0.0
+BRECIS Communication,0.0,0.0
+Breeze,0.0,0.0
+Breezeworks,0.0,0.0
+BreezoMeter,0.0,0.0
+Breker Verification Systems,0.0,0.0
+Brevo,0.0,0.0
+Bountii,0.0,0.0
+BRIGHT,0.0,0.0
+Bee There LLC,0.0,0.0
+Brit + Co,0.0,0.0
+Britely,0.0,0.0
+Bright.com,0.0,0.0
+Bright Computing,0.0,0.0
+Bright Funds,0.0,0.0
+BrightBytes,0.0,0.0
+BrightFunnel,0.0,0.0
+BrightRoll,0.0,0.0
+BrightSide Software,0.0,0.0
+Brightstorm,0.0,0.0
+BrightTALK,0.0,0.0
+Brilliant.org,0.0,0.0
+BringIt,0.0,0.0
+Bring Light,0.0,0.0
+Brittmore Group,0.0,0.0
+Buffer,0.0,0.0
+Brigade,0.0,0.0
+BRIVAS,0.0,0.0
+BroadLogic Network Technologies,0.0,0.0
+Broadway Networks,0.0,0.0
+Bromium,0.0,0.0
+"Broncus Technologies, Inc.",0.0,0.0
+Browster,0.0,0.0
+B-Stock Solutions,0.0,0.0
+BTCjam,0.0,0.0
+BTIG,0.0,0.0
+BubbleNoise,0.0,0.0
+Buddha Software,0.0,0.0
+Buddy Drinks,0.0,0.0
+BugSense,0.0,0.0
+CoverMe,0.0,0.0
+BUILD,0.0,0.0
+BuyFi,0.0,0.0
+Cake Health,0.0,0.0
+CAH Holdings Group,0.0,0.0
+Cabochon Aesthetics,0.0,0.0
+Cabana,0.0,0.0
+C8 MediSensors,0.0,0.0
+C4Robo,0.0,0.0
+C2 Therapeutics,0.0,0.0
+C2 Microsystems,0.0,0.0
+ByteShield,0.0,0.0
+Byliner,0.0,0.0
+Buzzstarter Inc,0.0,0.0
+BuySimple,0.0,0.0
+Buysight,0.0,0.0
+Carbylan Therapeutics,0.0,0.0
+Buxfer,0.0,0.0
+card.io,0.0,0.0
+Center'd,0.0,0.0
+Catch.com,0.0,0.0
+Caviar,0.0,0.0
+Cavendish Kinetics,0.0,0.0
+Caustic Graphics,0.0,0.0
+Causes,0.0,0.0
+Causata,0.0,0.0
+Catnip,0.0,0.0
+Cathera,0.0,0.0
+Catamaran,0.0,0.0
+CayMay Education,0.0,0.0
+Catalytic,0.0,0.0
+Cake Financial,0.0,0.0
+Butterfleye Inc,0.0,0.0
+Catalia Health,0.0,0.0
+Business Engine,0.0,0.0
+Captiv8,0.0,0.0
+Capsilon Corporation,0.0,0.0
+Capriza,0.0,0.0
+CapRally,0.0,0.0
+CAPNIA,0.0,0.0
+Capigami,0.0,0.0
+Capella Photonics,0.0,0.0
+Calista Technologies,0.0,0.0
+California Apostille Services,0.0,0.0
+Calibra Medical,0.0,0.0
+Bunker Mode,0.0,0.0
+Butlr,0.0,0.0
+Business Exchange,0.0,0.0
+Business Capital,0.0,0.0
+Buttercoin,0.0,0.0
+Bureau Of Trade,0.0,0.0
+Bunny Inc.,0.0,0.0
+Bunndle,0.0,0.0
+Bunchcut,0.0,0.0
+Calcula Technologies,0.0,0.0
+Bunchball,0.0,0.0
+Bump Technologies,0.0,0.0
+Bullet Biotechnology,0.0,0.0
+Built.io,0.0,0.0
+BuildZoom,0.0,0.0
+BuildScience,0.0,0.0
+buildingconnected,0.0,0.0
+Butter Systems,0.0,0.0
+Catalog Spree,0.0,0.0
+Casualing,0.0,0.0
+Citus Data,0.0,0.0
+Carhoots.com,0.0,0.0
+Cardpool,0.0,0.0
+Cardiva Medical,0.0,0.0
+Cassatt,0.0,0.0
+CardioMind,0.0,0.0
+CardioKinetix,0.0,0.0
+CardioGen Sciences,0.0,0.0
+CardioDx,0.0,0.0
+Cardinal Blue Software,0.0,0.0
+Cardiio,0.0,0.0
+Cardica,0.0,0.0
+CareSimply,0.0,0.0
+"CarGlass, Inc.",0.0,0.0
+Cargo Chief,0.0,0.0
+Caspian Networks,0.0,0.0
+Care at Hand,0.0,0.0
+Casmul,0.0,0.0
+Cask,0.0,0.0
+Casinity,0.0,0.0
+Cash Check Card,0.0,0.0
+Casetext,0.0,0.0
+Cartup Commerce,0.0,0.0
+Carticipate,0.0,0.0
+Carsabi,0.0,0.0
+Carrier IQ,0.0,0.0
+UNIFi Software,0.0,0.0
+Carmot Therapeutics,0.0,0.0
+Cityblis,0.0,0.0
+Carlock,0.0,0.0
+CardSpring,0.0,0.0
+CareDox,0.0,0.0
+Casual Collective,0.0,0.0
+Cellabus,0.0,0.0
+CastTV,0.0,0.0
+Castlight Health,0.0,0.0
+Cavium,0.0,0.0
+Cazoomi,0.0,0.0
+CARDFREE,0.0,0.0
+Cellfire,0.0,0.0
+"Centerbeam, Inc.",0.0,0.0
+Celvibe,0.0,0.0
+Cellworks,0.0,0.0
+Cellular Biomedicine Group (CBMG),0.0,0.0
+CellSpin,0.0,0.0
+Cellmax,0.0,0.0
+Clever Sense,0.0,0.0
+Pipewise,0.0,0.0
+Career Element,0.0,0.0
+CellScope,0.0,0.0
+Celiro,0.0,0.0
+Celestial Semiconductor,0.0,0.0
+Celery,0.0,0.0
+CeleritasCloud,0.0,0.0
+Celequest Corp,0.0,0.0
+CDNetworks,0.0,0.0
+Cast Iron Systems,0.0,0.0
+CastBridge,0.0,0.0
+castAR by Technical Illusions,0.0,0.0
+CardMunch,0.0,0.0
+CareParent,0.0,0.0
+CareLuLu,0.0,0.0
+Capeco,0.0,0.0
+Captora,0.0,0.0
+LiveHive,0.0,0.0
+Chatous,0.0,0.0
+Circle Inc,0.0,0.0
+Cephea Valve Technologies,0.0,0.0
+CircleCI,0.0,0.0
+Circl,0.0,0.0
+Circa,0.0,0.0
+Chubbies Shorts,0.0,0.0
+Chobolabs,0.0,0.0
+Chronogolf,0.0,0.0
+Chronix Biomedical,0.0,0.0
+Gather,0.0,0.0
+ChatWork,0.0,0.0
+Cervel Neurotech,0.0,0.0
+Ceterix Orthopaedics,0.0,0.0
+just.me 2014 Inc,0.0,0.0
+Circle of Moms,0.0,0.0
+Chat Sports,0.0,0.0
+Charter Venture Capital,0.0,0.0
+Chartboost,0.0,0.0
+Chartio,0.0,0.0
+Charles Schwab,0.0,0.0
+Charles Chocolates,0.0,0.0
+Chariot,0.0,0.0
+Centrality Communications,0.0,0.0
+ChannelMeter,0.0,0.0
+Channel Medsystems,0.0,0.0
+"Channel (H), Inc",0.0,0.0
+ChangeTip,0.0,0.0
+ChangeCoin,0.0,0.0
+Chronos Mobile Technologies,0.0,0.0
+Circle Pharma,0.0,0.0
+Car Advisory Network,0.0,0.0
+Cerberus Co.,0.0,0.0
+Chute,0.0,0.0
+Cinemagram,0.0,0.0
+CineMallTec LLC,0.0,0.0
+Cinemacraft,0.0,0.0
+Cerephex,0.0,0.0
+CipherCloud,0.0,0.0
+Ciel Medical,0.0,0.0
+Cerego,0.0,0.0
+Chug,0.0,0.0
+Chutney Technologies,0.0,0.0
+CiiNOW,0.0,0.0
+Circle Medical,0.0,0.0
+CipherMax,0.0,0.0
+CITTIO,0.0,0.0
+CircleUp,0.0,0.0
+Citrus Lane,0.0,0.0
+Citrine Informatics,0.0,0.0
+Citizen.VC,0.0,0.0
+Citizen Sports,0.0,0.0
+Cista System,0.0,0.0
+Centrillion Biosciences,0.0,0.0
+cisimple,0.0,0.0
+Cisco,0.0,0.0
+Cirtas Systems,0.0,0.0
+CirroSecure,0.0,0.0
+CircuitLab,0.0,0.0
+Ceon,0.0,0.0
+CircuitHub,0.0,0.0
+cFares,0.0,0.0
+Change.org,0.0,0.0
+CFEngine,0.0,0.0
+Cambly,0.0,0.0
+Carmenta Bioscience,0.0,0.0
+Centerpoint Broadband Technologies,0.0,0.0
+Camino Real,0.0,0.0
+Canopy Financial,0.0,0.0
+Canesta,0.0,0.0
+CampusKudos,0.0,0.0
+Campus Auto Fair .Com,0.0,0.0
+Camperoo,0.0,0.0
+CampaignAbility,0.0,0.0
+Campaign Monitor,0.0,0.0
+Cambrios Technologies,0.0,0.0
+Cantimer,0.0,0.0
+Cambrian Genomics,0.0,0.0
+Calysta Energy,0.0,0.0
+Chalet Tech,0.0,0.0
+Calypto Design Systems,0.0,0.0
+CalmSea,0.0,0.0
+Calm,0.0,0.0
+Callinize,0.0,0.0
+Cantaloupe Systems,0.0,0.0
+Cape Productions,0.0,0.0
+Card Capture Services,0.0,0.0
+CaptureProof,0.0,0.0
+CarbonFlow,0.0,0.0
+Carbonetworks,0.0,0.0
+Carbon3D,0.0,0.0
+Carbon,0.0,0.0
+Car Rentals Market,0.0,0.0
+MetaChannels,0.0,0.0
+ChefsFeed,0.0,0.0
+Chelsio Communications,0.0,0.0
+ChemoCentryx,0.0,0.0
+Chai Labs,0.0,0.0
+Chairish,0.0,0.0
+Certus,0.0,0.0
+CheckInPage,0.0,0.0
+Checkr,0.0,0.0
+ChipX,0.0,0.0
+Chronicled,0.0,0.0
+Chromasun,0.0,0.0
+Chromance,0.0,0.0
+Chorus,0.0,0.0
+Choose Energy,0.0,0.0
+Chomp,0.0,0.0
+ChoicePass,0.0,0.0
+Chain,0.0,0.0
+Chirpme,0.0,0.0
+Chirply,0.0,0.0
+Chirp Interactive,0.0,0.0
+Ceres Imaging,0.0,0.0
+Certify Data Systems,0.0,0.0
+Chip Path Design Systems,0.0,0.0
+Chip Estimate,0.0,0.0
+Chime,0.0,0.0
+ChickRx,0.0,0.0
+Chevia,0.0,0.0
+Certain,0.0,0.0
+Chestnut Medical,0.0,0.0
+Cherry,0.0,0.0
+Cariocas,0.0,0.0
+Codementor,0.0,0.0
+cobalt.io,0.0,0.0
+Clay.io,0.0,0.0
+Clean Power Finance,0.0,0.0
+CivicSolar,0.0,0.0
+Civo,0.0,0.0
+Clairvolex,0.0,0.0
+Clara Foods,0.0,0.0
+Clari,0.0,0.0
+Claritics,0.0,0.0
+Clarity,0.0,0.0
+Clarive Software,0.0,0.0
+Clarus Systems,0.0,0.0
+Class Travel Pty Ltd,0.0,0.0
+ClassDojo,0.0,0.0
+ClassOwl,0.0,0.0
+Clean Wave Technologies,0.0,0.0
+angelcam,0.0,0.0
+Click & Grow,0.0,0.0
+CleanFish,0.0,0.0
+Clear Ear,0.0,0.0
+Clear Labs,0.0,0.0
+ClearApp,0.0,0.0
+Clearbit,0.0,0.0
+Clearbon,0.0,0.0
+ClearCare,0.0,0.0
+ClearSlide,0.0,0.0
+ClearStory Data,0.0,0.0
+Clearwell Systems,0.0,0.0
+Clerky,0.0,0.0
+Clever,0.0,0.0
+Cloudike,0.0,0.0
+Clickatell,0.0,0.0
+Kentik,0.0,0.0
+ClipMine,0.0,0.0
+clipsync,0.0,0.0
+ClickFacts,0.0,0.0
+Clickpass,0.0,0.0
+Clickst,0.0,0.0
+Clicktree,0.0,0.0
+Clikthrough,0.0,0.0
+Clinicloud,0.0,0.0
+Clinkle,0.0,0.0
+Clinovo,0.0,0.0
+Clip,0.0,0.0
+Clipabout,0.0,0.0
+ClipCall,0.0,0.0
+Clipik,0.0,0.0
+Clique Intelligence,0.0,0.0
+CloudFlare,0.0,0.0
+Clickability,0.0,0.0
+Clixtr,0.0,0.0
+Clontech Laboratories Inc,0.0,0.0
+Close.io,0.0,0.0
+CloudCannon,0.0,0.0
+Cloud.com,0.0,0.0
+Cloud Engines,0.0,0.0
+CloudPrime,0.0,0.0
+CloudAcademy,0.0,0.0
+CloudByte,0.0,0.0
+cloudcade,0.0,0.0
+CloudCrowd,0.0,0.0
+Cloudera,0.0,0.0
+Clever Machine,0.0,0.0
+Cloudkick,0.0,0.0
+CityHour,0.0,0.0
+Cloudvue Technologies,0.0,0.0
+CloudWalk,0.0,0.0
+CloudMade,0.0,0.0
+Cloudmark,0.0,0.0
+CloudMedx Inc,0.0,0.0
+Cloudmeter,0.0,0.0
+CloudOn,0.0,0.0
+CloudPassage,0.0,0.0
+CloudPeeps,0.0,0.0
+CloudPhysics,0.0,0.0
+Cloudscaling,0.0,0.0
+CloudShield Technologies,0.0,0.0
+Cloudstitch,0.0,0.0
+CloudTalk,0.0,0.0
+Cloudwords,0.0,0.0
+Code for America,0.0,0.0
+Cobalt Technologies,0.0,0.0
+Clover,0.0,0.0
+Clover Health,0.0,0.0
+Cloverpop,0.0,0.0
+Cluster Labs,0.0,0.0
+Clusterk,0.0,0.0
+Clustrix,0.0,0.0
+Clutch.io,0.0,0.0
+Cmune,0.0,0.0
+CNEX LABS,0.0,0.0
+CoAdna Photonics,0.0,0.0
+CoAlign,0.0,0.0
+Coapt Systems,0.0,0.0
+Cloudmach,0.0,0.0
+Code Green Networks,0.0,0.0
+Koinify,0.0,0.0
+Codiak Biosciences,0.0,0.0
+Codie,0.0,0.0
+Codeanywhere,0.0,0.0
+CodeBox.io,0.0,0.0
+CodeCombat,0.0,0.0
+CodeEval,0.0,0.0
+Codefast,0.0,0.0
+CodeFights,0.0,0.0
+CodeHS,0.0,0.0
+Bugsnag,0.0,0.0
+Codenvy,0.0,0.0
+CodersClan,0.0,0.0
+Coderwall,0.0,0.0
+Codexis,0.0,0.0
+CodinGame,0.0,0.0
+Coinding,0.0,0.0
+Code Fresh,0.0,0.0
+Coffee and Power,0.0,0.0
+Coffee Meets Bagel,0.0,0.0
+CoffeeTable,0.0,0.0
+Cogentus Pharmaceuticals,0.0,0.0
+Coghead,0.0,0.0
+Cognitive Health Innovations,0.0,0.0
+Cognitive Networks,0.0,0.0
+Coherus Biosciences,0.0,0.0
+Cohuman,0.0,0.0
+Coin,0.0,0.0
+Coinalytics Co.,0.0,0.0
+Coinbase,0.0,0.0
+CityStash Holdings,0.0,0.0
+Cola,0.0,0.0
+Colibri IO,0.0,0.0
+Comeet,0.0,0.0
+Comergent Technologies,0.0,0.0
+Colingo,0.0,0.0
+CollabRx,0.0,0.0
+Collarity,0.0,0.0
+CollateBox,0.0,0.0
+Collections,0.0,0.0
+Groupsite,0.0,0.0
+College Snack Attack,0.0,0.0
+collegefeed,0.0,0.0
+Collusion,0.0,0.0
+Color Labs Inc.,0.0,0.0
+Com2uS Corp.,0.0,0.0
+Comedy World,0.0,0.0
+FlipFlic,0.0,0.0
+Compology,0.0,0.0
+Compliance Innovations,0.0,0.0
+ComfortWay,0.0,0.0
+Commerce Sciences,0.0,0.0
+Commerce Signals,0.0,0.0
+CommitChange,0.0,0.0
+Common Sense Media,0.0,0.0
+CommutePays,0.0,0.0
+CompanyLoop,0.0,0.0
+Startup Compass Inc.,0.0,0.0
+Compass Labs,0.0,0.0
+Compass Quality Insight Inc.,0.0,0.0
+Complete Genomics,0.0,0.0
+Complete Labs,0.0,0.0
+Contrast Security,0.0,0.0
+Compression Kinetics,0.0,0.0
+Cotera,0.0,0.0
+Connectbeam,0.0,0.0
+Connectbright,0.0,0.0
+Concept.io,0.0,0.0
+"Concord Worldwide, Inc.",0.0,0.0
+Concurrent Inc,0.0,0.0
+Condition One,0.0,0.0
+Confabb,0.0,0.0
+Conference Hound,0.0,0.0
+Confluent,0.0,0.0
+Confluent (Oblix / Oracle),0.0,0.0
+Conformia Software,0.0,0.0
+Confyrm,0.0,0.0
+Conjectur,0.0,0.0
+Connect,0.0,0.0
+Connected,0.0,0.0
+Contivo,0.0,0.0
+Comprehend Systems,0.0,0.0
+ConnectSolutions,0.0,0.0
+Consano,0.0,0.0
+Consano Medical Inc.,0.0,0.0
+Consorte Media,0.0,0.0
+Constellation Research,0.0,0.0
+Consulted,0.0,0.0
+Contacts+,0.0,0.0
+Contactual,0.0,0.0
+Contastic,0.0,0.0
+Content Analytics,0.0,0.0
+Content Circles,0.0,0.0
+Continuent,0.0,0.0
+Complex Polygon,0.0,0.0
+Contract Live,0.0,0.0
+Convergent.io Technologies,0.0,0.0
+CoreOS,0.0,0.0
+Corepair,0.0,0.0
+Convoke Systems,0.0,0.0
+Grove.io,0.0,0.0
+Convozine,0.0,0.0
+Cook Taste Eat,0.0,0.0
+TalkToChef,0.0,0.0
+Cooliris,0.0,0.0
+Copilot Labs,0.0,0.0
+CoPilot Systems,0.0,0.0
+Copious,0.0,0.0
+Coraid,0.0,0.0
+coRank,0.0,0.0
+Corefino,0.0,0.0
+Corezoid,0.0,0.0
+ColibrÃ­,0.0,0.0
+"Coterie, Inc.",0.0,0.0
+Corium International,0.0,0.0
+Corona Labs,0.0,0.0
+corpa,0.0,0.0
+Hitch,0.0,0.0
+Corral Labs,0.0,0.0
+Cortex,0.0,0.0
+Cortexyme,0.0,0.0
+Cortina Systems,0.0,0.0
+Corventis,0.0,0.0
+Corvigo,0.0,0.0
+Cotap,0.0,0.0
+Cotendo,0.0,0.0
+Convo,0.0,0.0
+CoTweet,0.0,0.0
+Couchsurfing,0.0,0.0
+Credit Sesame,0.0,0.0
+Covia Labs,0.0,0.0
+Counterpane Internet Security,0.0,0.0
+Couple,0.0,0.0
+Quotient Technology,0.0,0.0
+Course Hero,0.0,0.0
+Coursera,0.0,0.0
+Coursmos,0.0,0.0
+Covercake,0.0,0.0
+Stride Health,0.0,0.0
+CoverHound,0.0,0.0
+Coverity,0.0,0.0
+Covermate Products,0.0,0.0
+Coveroo,0.0,0.0
+CoWare,0.0,0.0
+Couchbase,0.0,0.0
+coWorkr,0.0,0.0
+cPacket Networks,0.0,0.0
+Cradle Technologies,0.0,0.0
+Craigslist,0.0,0.0
+Cranite Systems,0.0,0.0
+CRAVE,0.0,0.0
+Crave.com,0.0,0.0
+CreativeLive,0.0,0.0
+Creative Market,0.0,0.0
+Credible,0.0,0.0
+Credii,0.0,0.0
+Credit Karma,0.0,0.0
+CriskCo,0.0,0.0
